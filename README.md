@@ -1,2 +1,1 @@
-# ToDoList
-Lista de tarefas feita em Angular
+Lista de tarefas feita em angular para aprendizado :)
